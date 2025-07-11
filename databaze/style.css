@@ -1,0 +1,6 @@
+.bgcolor{
+    background-color: #00ff00;
+}
+.selected-row {
+    background-color: #77baf9 !important; /* světle žlutá */
+}
